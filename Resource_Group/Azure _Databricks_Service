@@ -1,0 +1,67 @@
+{
+    "properties": {
+        "managedResourceGroupId": 
+        "parameters": {
+            "enableFedRampCertification": {
+                "type": "Bool",
+                "value": false
+            },
+            "enableNoPublicIp": {
+                "type": "Bool",
+                "value": true
+            },
+            "prepareEncryption": {
+                "type": "Bool",
+                "value": false
+            },
+            "requireInfrastructureEncryption": {
+                "type": "Bool",
+                "value": false
+            },
+            "resourceTags": {
+                "type": "Object",
+                "value": {
+                    "application": "databricks",
+                    "databricks-environment": "true"
+                }
+            },
+            "storageAccountName": {
+                "type": "String",
+                "value": "dbstoragey2k3om6lbw3pu"
+            },
+            "storageAccountSkuName": {
+                "type": "String",
+                "value": "Standard_GRS"
+            }
+        },
+        "provisioningState": "Succeeded",
+        "authorizations": [
+            {
+                "principalId": 
+                "roleDefinitionId": 
+            }
+        ],
+        "createdBy": {
+            "oid": "af7a78f7-b92a-4059-b61f-59c50b4127c1",
+            "puid": "0003BFFE9ADB68AC",
+            "applicationId": 
+        },
+        "updatedBy": {
+            "oid": "af7a78f7-b92a-4059-b61f-59c50b4127c1",
+            "puid": "0003BFFE9ADB68AC",
+            "applicationId": 
+        },
+        "workspaceId": "3679480008156256",
+        "workspaceUrl": "adb-3679480008156256.16.azuredatabricks.net",
+        "createdDateTime": "2025-07-14T10:36:41.3051735Z"
+    },
+    "id": 
+    "name": "adb-nyc-yash",
+    "type": "Microsoft.Databricks/workspaces",
+    "sku": {
+        "name": "premium"
+    },
+    "location": "eastus",
+    "tags": {},
+    "apiVersion": "2018-04-01"
+}
