@@ -1,1 +1,26 @@
-
+{
+    "name": "RGnyctaxi",
+    "id": "/subscriptions/d44733b7-b3e3-48b1-85c4-7a331a08f283/resourceGroups/rgnyctaxi/providers/Microsoft.DataFactory/factories/rgnyctaxi",
+    "type": "Microsoft.DataFactory/factories",
+    "properties": {
+        "provisioningState": "Succeeded",
+        "createTime": "2025-07-13T13:37:19.9446298Z",
+        "version": "2018-06-01",
+        "factoryStatistics": {
+            "totalResourceCount": 0,
+            "maxAllowedResourceCount": 0,
+            "factorySizeInGbUnits": 0,
+            "maxAllowedFactorySizeInGbUnits": 0
+        },
+        "publicNetworkAccess": "Enabled"
+    },
+    "eTag": "\"6d0025e2-0000-0100-0000-6873b6900000\"",
+    "location": "eastus",
+    "identity": {
+        "type": "SystemAssigned",
+        "principalId": "8dbb0340-8712-4a5a-8a4c-e89d134a71b4",
+        "tenantId": "8f9c15d2-f569-4715-93ff-f549ad71e44a"
+    },
+    "tags": {},
+    "apiVersion": "2018-06-01"
+}
