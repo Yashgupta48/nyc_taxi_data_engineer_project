@@ -4,7 +4,7 @@
         "tier": "Standard"
     },
     "kind": "StorageV2",
-    "id": 
+    "id": ---------------------------------------------------
     "name": "storagenyctaxi2",
     "type": "Microsoft.Storage/storageAccounts",
     "location": "eastus",
